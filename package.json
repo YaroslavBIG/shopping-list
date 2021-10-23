@@ -38,9 +38,9 @@
     "typescript": "~4.0.0"
   },
   "bugs": {
-    "url": "https://github.com/GeekyAnts/nativebase-templates/issues"
+    "url": "https://github.com/YaroslavBIG/shopping-list/issues"
   },
-  "homepage": "https://github.com/GeekyAnts/nativebase-templates#readme",
-  "author": "Aditya Jamuar",
+  "homepage": "https://github.com/YaroslavBIG/shopping-list#readme",
+  "author": "Yaroslav Mos",
   "private": true
 }
