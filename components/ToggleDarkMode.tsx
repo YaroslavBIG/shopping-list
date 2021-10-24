@@ -1,5 +1,5 @@
 import React from "react";
-import { HStack, useColorMode, Switch, NativeBaseProvider } from "native-base";
+import { useColorMode, Switch } from "native-base";
 
 export function ToggleDarkMode() {
   const { colorMode, toggleColorMode } = useColorMode();

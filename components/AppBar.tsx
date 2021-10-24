@@ -1,5 +1,5 @@
 import React from "react";
-import { VStack, HStack, Button, IconButton, Icon, Text, NativeBaseProvider, Center, Box, StatusBar, useColorMode } from "native-base";
+import { HStack, useColorMode } from "native-base";
 import { UserAvatar } from "./Avatar/Avatar";
 import { MainMenu } from "./Menu/Menu";
 import { ToggleDarkMode } from "./ToggleDarkMode";

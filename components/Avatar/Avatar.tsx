@@ -1,5 +1,5 @@
 import React from "react"
-import { Avatar, HStack, Center, NativeBaseProvider } from "native-base"
+import { Avatar } from "native-base"
 export const UserAvatar = () => {
   return (
       <Avatar
