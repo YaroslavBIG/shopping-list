@@ -5,7 +5,7 @@ import { MainMenu } from './Menu/Menu';
 import { ToggleDarkMode } from './ToggleDarkMode';
 
 export function AppBar() {
-  const { colorMode, toggleColorMode } = useColorMode();
+  const { colorMode } = useColorMode();
   const bg = colorMode === 'dark' ? 'black' : 'white';
   return (
     <HStack
